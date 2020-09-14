@@ -38,7 +38,7 @@ Deployment
 ======================
 In this section, we have identified the best model based on the precision, recall and F1-score. Besides, we have also briefly explained the steps taken to deploy the best model into Application Programming Interface (API). 
 
-Conclusiom
+Conclusion
 ======================
 In this section, we have described the pros and cons of using each algorithm.
 
